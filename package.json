@@ -1,7 +1,7 @@
 {
   "name": "goit-nodejs-hw-01-cli-application",
   "version": "1.0.0",
-   "homepage": "https://Stasy1975.github.io/goit-nodejs-hw-01-cli-application/",
+  "homepage": "https://Stasy1975.github.io/goit-nodejs-hw-01-cli-application/",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -13,6 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "commander": "^9.4.1",
     "cors": "^2.8.5",
     "express": "^4.18.2"
   },
